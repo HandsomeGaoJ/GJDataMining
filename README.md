@@ -9,3 +9,4 @@ GaojunDataMining 数据挖掘大作业
 ## 3、点击new，新建仓库，输入库名即可
 ![微信图片_20240423181837](https://github.com/HandsomeGaoJ/GJDataMining/assets/151522211/7447dfdf-5947-4a06-9514-2b0ddaea8374)
 ![微信图片_20240423181843](https://github.com/HandsomeGaoJ/GJDataMining/assets/151522211/d71371a8-0ff9-4a90-8cf7-49e5c06c5d4f)
+## 4、建立成功之后，上传文件，将自己的ppt上传至库中，然后编辑readme文件对过程进行描述
